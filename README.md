@@ -2,10 +2,9 @@
 
 Estudo geral de lógica de programação e desenvolvimento — complementar à minha trajetória principal em Suporte Técnico e Cybersecurity.
 
-> 📌 Este é um repositório de estudo complementar. Minha trajetória 
-> profissional principal está documentada em 
-> [`suporte-tecnico-journey`](https://github.com/TiagoSilva00/suporte-tecnico-journey) 
-> e [`cybersecurity-journey`](https://github.com/TiagoSilva00/cybersecurity-journey).
+📌 Este é um repositório de estudo complementar. Minha trajetória profissional principal está documentada em [suporte-tecnico-journey](link) e [cybersecurity-journey](link).
+
+📜 [Certificados](https://github.com/TiagoSilva00/cybersecurity-journey/tree/main/certificados) — certificações obtidas ao longo da jornada
 
 ## 📚 Sobre este repositório
 
