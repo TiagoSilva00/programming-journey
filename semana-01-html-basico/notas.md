@@ -17,18 +17,29 @@ Analogia: se uma página web fosse uma casa, o HTML é a estrutura
 
 ![Hello World em HTML](hello-world.png)
 
+## Evidência - Renderização no navegador
+
+![Lista de linguagens e link para o GitHub](lista-links-html.png)
+
+Página HTML renderizada no navegador via Live Server, demonstrando a
+aplicação prática dos elementos `<h1>`, `<p>`, `<ul>`/`<li>` (lista não
+ordenada) e `<a>` (link com atributo target="_blank").
+
 ## Observações
 - Testei a estrutura básica no navegador usando Live Server.
 - Tags h1 e p já renderizam conteúdo visível na página.
 - Live Server abre no navegador padrão do sistema, não necessariamente o Chrome.
 - Fiz o tradicional "Hello, World!" em HTML 🎉
+- Aprendi que tags HTML escritas como texto dentro do Markdown (ex: `<h1>`,
+  `<p>`) precisam estar entre crases, senão o GitHub tenta renderizá-las
+  como código real, quebrando a formatação da página.
 
 ## Listas em HTML
 
 Listas são usadas para organizar informações relacionadas de forma visual
 e semântica — ou seja, o HTML não só mostra os itens, mas também comunica
 ao navegador (e a leitores de tela, para acessibilidade) que aquilo é um
-conjunto de itens relacionados. Por isso usar <ul>/<li> é considerado boa
+conjunto de itens relacionados. Por isso usar `<ul>`/`<li>` é considerado boa
 prática, em vez de simplesmente separar textos com quebras de linha.
 
 **Lista não ordenada (`<ul>`)** — usada quando a ordem não importa:
