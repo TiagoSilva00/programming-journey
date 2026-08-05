@@ -30,3 +30,6 @@ ordenada) e `<a>` (link com atributo target="_blank").
 - Tags h1 e p já renderizam conteúdo visível na página.
 - Live Server abre no navegador padrão do sistema, não necessariamente o Chrome.
 - Fiz o tradicional "Hello, World!" em HTML 🎉
+- Aprendi que tags HTML escritas como texto dentro do Markdown (ex: <h1>, <p>)
+  precisam estar entre crases (`<h1>`), senão o GitHub tenta renderizá-las
+  como código real, quebrando a formatação da página.
